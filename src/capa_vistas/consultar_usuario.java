@@ -15,6 +15,7 @@ import javax.swing.JOptionPane;
 public class consultar_usuario extends javax.swing.JFrame {
 
     /**
+     * 
      * Creates new form consultar_usuario
      */
     public consultar_usuario() {
